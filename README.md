@@ -22,4 +22,8 @@ This project focuses on real-time hand sign detection and recognition using comp
    ```bash
    git clone https://github.com/Mr-Vicky-01/hand-sign-detection.git
    cd hand-sign-detection
-![Uploading 20230917_181918.jpg…]()
+
+
+## Demo Video
+![Uploading IMG20211210075542-02.jpeg…]()
+
