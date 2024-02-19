@@ -26,4 +26,4 @@ This project focuses on real-time hand sign detection and recognition using comp
 
 ## Demo Video
 
-
+https://github.com/Mr-Vicky-01/Deplyment-Deep-learining/assets/143078285/0322fd61-5a87-4281-b0cf-ff23ac6eebc2
